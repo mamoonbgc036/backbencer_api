@@ -1,0 +1,2 @@
+try to implement prepareForValidation method
+try to implement StoreProductRequest
