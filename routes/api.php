@@ -3,9 +3,9 @@
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\api\V1\Task\TaskController;
-use App\Http\Controllers\Api\V1\Auth\LoginController;
-use App\Http\Controllers\Api\V1\Auth\LogoutController;
-use App\Http\Controllers\Api\V1\Auth\RegisterController;
+use App\Http\Controllers\api\V1\Auth\LoginController;
+use App\Http\Controllers\api\V1\Auth\LogoutController;
+use App\Http\Controllers\api\V1\Auth\RegisterController;
 
 /*
 |--------------------------------------------------------------------------
